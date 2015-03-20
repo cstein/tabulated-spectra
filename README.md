@@ -8,7 +8,7 @@ It is very easy to contribute: (1) Fork this repository. (2) Add your own tabula
 Perfect! Follow the same procedure as above.
 
 ## Found an error?
-Follow the same procedure as when you want to contribute data.
+Even better! Help make this repository better. Follow the same procedure as above.
 
 ## Show me the data
 Here follows a list DOI entries and corresponding data files
