@@ -10,6 +10,6 @@ Perfect! Follow the procedure above.
 ## Show me the data
 Here follows a list DOI entries and corresponding data files
 
-| DOI | Data | Description |
-|-----|------|-------------|
-| [10.1023/A:1014947732165](http://dx.doi.org/10.1023/A:1014947732165) | [download](https://raw.githubusercontent.com/cstein/tabulated-spectra/master/spectra/1.dat) | 4K absorption spectrum of FMO (figure 1.1) |
+| DOI | Data | Description | Graph |
+|-----|------|-------------|-------|
+| [10.1023/A:1014947732165](http://dx.doi.org/10.1023/A:1014947732165) | [download](https://raw.githubusercontent.com/cstein/tabulated-spectra/master/spectra/1.dat) | 4K absorption spectrum of FMO (figure 1.1) | [view](https://plot.ly/~cstein/93) |
