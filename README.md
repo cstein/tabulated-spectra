@@ -6,3 +6,10 @@ It is very easy to contribute: (1) Fork this repository. (2) Add your own tabula
 
 ## I have original tabulated data I want to contribute
 Perfect! Follow the procedure above.
+
+## Show me the data
+Here follows a list DOI entries and corresponding data files
+
+| DOI | Data | Description |
+|-----|------|-------------|
+| [10.1023/A:1014947732165](http://dx.doi.org/10.1023/A:1014947732165) | [download](spectra/1.dat) | 4K spectrum of FMO, figure 1.1 |
