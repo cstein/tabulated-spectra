@@ -12,4 +12,4 @@ Here follows a list DOI entries and corresponding data files
 
 | DOI | Data | Description | Graph |
 |-----|------|-------------|-------|
-| [10.1023/A:1014947732165](http://dx.doi.org/10.1023/A:1014947732165) | [download](https://raw.githubusercontent.com/cstein/tabulated-spectra/master/spectra/1.dat) | 4K absorption spectrum of FMO (figure 1.1) | [view](https://plot.ly/~cstein/93) |
+| [10.1023/A:1014947732165](http://dx.doi.org/10.1023/A:1014947732165) | [download](https://raw.githubusercontent.com/cstein/tabulated-spectra/master/spectra/1.dat) | Absorption spectrum at 4 K (figure 1.1) | [view](https://plot.ly/~cstein/107) |
