@@ -4,6 +4,8 @@ This repository contains tabulated spectra from the scientific litterature, i.e.
 ## How can I contribute?
 It is very easy to contribute: (1) Fork this repository. (2) Add your own tabulated data (including references to the original work so it can be properly cited) and (3) make a pull request.
 
+An excellent tool you can try out is the [WebPlotDigitizer](http://arohatgi.info/WebPlotDigitizer/) to help you extract that data.
+
 ## I have original tabulated data I want to contribute
 Perfect! Follow the same procedure as above.
 
