@@ -19,3 +19,4 @@ Here follows a list DOI entries and corresponding data files
 |-----|------|-------------|-------|
 | [10.1023/A:1014947732165](http://dx.doi.org/10.1023/A:1014947732165) | [download](https://raw.githubusercontent.com/cstein/tabulated-spectra/master/spectra/1.dat) | Absorption spectrum at 4 K (figure 1.1) | <a href="https://plot.ly/~cstein/135"><img src="https://plot.ly/~cstein/135.png" width="200px" /></a> |
 | [10.1002/jcc.20721](http://dx.doi.org/10.1002/jcc.20721) | [download](https://raw.githubusercontent.com/cstein/tabulated-spectra/master/spectra/2.dat) | Radial distribution functions for six-site acetonitrile | <a /> |
+| [10.1016/j.molstruc.2013.12.034](http://dx.doi.org/10.1016/j.molstruc.2013.12.034) | [download](https://raw.githubusercontent.com/cstein/tabulated-spectra/master/spectra/3.dat) | UV/vis and CD spectrum for (+)-terrein | <a href="https://plot.ly/~cstein/241/"><img src="https://plot.ly/~cstein/241.png" width="200px" /></a> |
